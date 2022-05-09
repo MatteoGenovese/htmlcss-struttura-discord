@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-mid ul li{
+    list-style: none;
+    display: inline;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+}
+
+.container{
+    width: 800px;
+    margin: auto;
+    display: flex;
+}
+.header-sx,
+.header-mid,
+.header-dx{
+    padding: 10px;
+}
+
+.header-sx{
+    background-color: blanchedalmond;
+    width: 20%;
+}
+.header-mid{
+    background-color: cadetblue;
+    width: 59%;
+    text-align: center;
+}
+
+.header-dx{
+    background-color: aquamarine;
+    width: 20%;
+    text-align: right;
+}
+.box1{
+    background-color:blue;
+    padding: 10px;
+}
+.box2{
+    background-color:white;
+    padding: 10px;
+}
+.box3{
+    background-color:gray;
+    padding: 10px;
+
+}
+.box4{
+    background-color:white;
+    padding: 10px;
+
+}
+.box5{
+    background-color:gray;    
+    padding: 10px;
+
+}
+.box6{
+    background-color:black;    
+    padding: 10px;
+
+}
+
+.fuchsia-centered-box{
+    background-color: fuchsia;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+}
+.light-blue-box{
+    width: 70%;
+    height: 300px;
+    background-color: blue;
+}
+.pink-box{
+    width: 29%;
+    height: 300px;
+    background-color: pink;
+}
+.green-centered-box{
+    background-color: green;
+    height: 300px;
+    margin: auto;
+}
+.sub-container{
+    display: flex;
+    width: 67%;
+}
+.pink-smaller-box{
+    width: 33%;
+    height: 300px;
+    background-color: pink;
+}
+.acquamarine-box{
+    background-color: aquamarine;
+    border: 1px dotted;
+    height: 300px;
+    width: 25%;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+}
+.footer-sub-container{
+    display: flex;
+    height: 100px;
+    background-color: aquamarine;
+    justify-content: space-between;
+    align-items: center;
+}
+hr{
+    color: gray;
+}
+.little-pink-footer-box{
+
+    background-color: pink;
+    padding: 10px;
+}
+
