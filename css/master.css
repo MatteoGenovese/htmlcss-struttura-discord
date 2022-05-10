@@ -31,7 +31,7 @@ header{
 }
 .header-mid{
     background-color: cadetblue;
-    width: 59%;
+    width: 60%;
     text-align: center;
 }
 
@@ -40,33 +40,21 @@ header{
     width: 20%;
     text-align: right;
 }
-.box1{
+.box-sub-container{
     background-color:blue;
     padding: 10px;
 }
-.box2{
+.box-odds{
     background-color:white;
     padding: 10px;
 }
-.box3{
+.box-even{
     background-color:gray;
     padding: 10px;
-
 }
-.box4{
-    background-color:white;
+.black-box{
+    background-color:black;
     padding: 10px;
-
-}
-.box5{
-    background-color:gray;    
-    padding: 10px;
-
-}
-.box6{
-    background-color:black;    
-    padding: 10px;
-
 }
 
 .fuchsia-centered-box{
